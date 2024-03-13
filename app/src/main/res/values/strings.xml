@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">FichaLab1</string>
+    <string name="page_identifier">Page AT1</string>
+    <string name="page_identifier2">Page AT2</string>
+    <string name="student_data" translatable="false">Rafael André, nº28234</string>
+    <string name="open_activity_2">Open AT2</string>
+    <string name="close_activity">Close</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="page_identifier">Página AT1</string>
+    <string name="page_identifier2">Página AT2</string>
+    <string name="open_activity_2">Abrir AT2</string>
+    <string name="close_activity">Fechar</string>
+</resources>
